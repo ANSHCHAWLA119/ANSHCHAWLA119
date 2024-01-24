@@ -1,19 +1,19 @@
 
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+## Hello World :wave:
 
-<!-- Intro -->
-<p align="center">
-  Hello World! <br>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" valign="middle"> <br>
-  I'm Ansh
-</p>
+<!--
+![](https://komarev.com/ghpvc/?username=rudrabarad&style=flat)
+-->
 
-<!-- Typing About -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👨‍💻;Welcome+to+my+Profile!;Learning!;Exploring!;Improving!;😎&font=Fira%20Code&center=true&width=390&height=60&duration=3000&pause=1500">
-</p>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+
+I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from Chandigarh University. <br><br>
+A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Coding Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
+
+
 
 <!-- Coder GIF -->
+<br>
 <img align="right" alt="Coding" width="500" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANSHCHAWLA119&label=Profile%20Views&color=blue&style=flat" alt="Profile-Views" /> </p>
@@ -23,9 +23,9 @@
   
 - 👋 Hi, I'm Ansh Chawla
 
-- 👨‍💻 Coding
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1C47rn7c1Uq3-LIJfhDVG5oASO8REU3Q9/view?usp=sharing)
 
-- 🎧 Music 
+- 👨‍💻 Coding
 
 - ️🏏 Cricket
 
@@ -41,29 +41,43 @@
 </p>
 <br><br>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ansh-chawla-777a92226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul nair" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ansh4321/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="rahul_nair" height="30" width="40" /></a>
+<a href="https://leetcode.com/anshchawla2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_nair, u4cse20259" height="30" width="40" /></a>
+</p>
+
+<br>
+<br>
+
 <!-- Languages and Tools -->
 <p align="center">⚙️Languages and Tools⚙️</p>
 <p align="center">
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> &nbsp;
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="50" height="50"/> &nbsp;
-<img src = "https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="sql" width="60" height="50"/> &nbsp;
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZJ3P4FMOFwSm_1Z63tWuZR9czntd7cDqIQ&usqp=CAU" alt="an" width="50" height="50"/> &nbsp; &nbsp; &nbsp;
-<img src = "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="vsc" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="pandas" width="40" height="40"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src = "https://jupyter.org/assets/share.png" alt="jn" width="90" height="50"/>
-<p align="center"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 <br>
 
+
+
 <!-- Top Languages -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhudil&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Stats"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSHCHAWLA119&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Stats"/>
 </p>
+
+    
 
 <!-- GitHub Statistics -->
 <p align="center">📊GitHub Statistics📊</p>
 
 <!-- GitHub-Stats -->
 <p align="Center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhudil&show_icons=true&locale=en&theme=tokyonight" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ANSHCHAWLA119&show_icons=true&locale=en&theme=tokyonight" alt="Stats"/>
 <br> <br>
 
 
