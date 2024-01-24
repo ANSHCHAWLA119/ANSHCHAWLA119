@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from Chandigarh University. <br><br>
+I am a 3rd Year Undergrad pursuing Bachelors in Computer Science Engineering with specialisation Big Data Analytics from Chandigarh University. <br><br>
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Coding Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
 
 
@@ -23,7 +23,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
   
 - 👋 Hi, I'm Ansh Chawla
 
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1C47rn7c1Uq3-LIJfhDVG5oASO8REU3Q9/view?usp=sharing)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1HC90VWK91QWjJVXycTL3OtEocOrkAhlc/view?usp=sharing)
 
 - 👨‍💻 Coding
 
@@ -44,7 +44,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ansh-chawla-777a92226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul nair" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ansh4321/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="rahul_nair" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ansh4321/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://github.com/ANSHCHAWLA119/ANSHCHAWLA119/blob/main/gfg.png" alt="rahul_nair" height="30" width="40" /></a>
 <a href="https://leetcode.com/anshchawla2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_nair, u4cse20259" height="30" width="40" /></a>
 </p>
 
@@ -61,6 +61,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src = "https://jupyter.org/assets/share.png" alt="jn" width="90" height="50"/>
 <p align="center"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ANSHCHAWLA119/ANSHCHAWLA119/blob/main/react.png" alt="seaborn" width="40" height="40"/> </a>
 </p>
 <br>
 
@@ -84,16 +85,16 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <!-- Repositories and Projects -->
 <p align="center">📖Repositories and Projects📖</p>
 <p align="center">
-<a href="https://github.com/Bhudil/Instruments_Classifier ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Instruments_Classifier&theme=tokyonight" alt="Instruments Image Classification System" />
+<a href="https://github.com/ANSHCHAWLA119/Diwali-Sales-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=Diwali-Sales-Analysis&theme=tokyonight" alt="Diwali Sales Analysis" />
 </a>
-<a href="https://github.com/Bhudil/Sentiment_Bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Sentiment_Bot&theme=tokyonight" alt="Sentiment Analysis Chatbot" />
+<a href="https://github.com/ANSHCHAWLA119/Walmart-Sales-Insights">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=Walmart-Sales-Insights&theme=tokyonight" alt="Walmart Sales Insights" />
 </a>
-<a href="https://github.com/Bhudil/Ham-Spam">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Ham-Spam&theme=tokyonight" alt="Email Ham-Spam Detection System" />
+<a href="https://github.com/ANSHCHAWLA119/customer-segmentation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=customer-segmentation&theme=tokyonight" alt="Customer Segmentation" />
 </a>
-<a href="https://github.com/Bhudil/TxtSumm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=TxtSumm&theme=tokyonight" alt="Text Summarization Tool" />
+<a href="https://github.com/ANSHCHAWLA119/TitanicDataset">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSHCHAWLA119&repo=TitanicDataset&theme=tokyonight" alt="Titanic Dataset" />
 </a>
 </p>
