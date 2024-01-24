@@ -1,5 +1,5 @@
 
-<img align="center" alt="logo" width="800" src="https://github.com/Bhudil/Bhudil/blob/main/giphy.gif">
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 <!-- Intro -->
 <p align="center">
@@ -14,9 +14,9 @@
 </p>
 
 <!-- Coder GIF -->
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="500" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhudil&label=Profile%20Views&color=blue&style=flat" alt="Profile-Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANSHCHAWLA119&label=Profile%20Views&color=blue&style=flat" alt="Profile-Views" /> </p>
 
 <!-- About -->
 <p>
@@ -27,11 +27,11 @@
 
 - 🎧 Music 
 
-- ️⚽️ Cricket
+- ️🏏 Cricket
 
-- 🌱 I’m currently learning **Cybersecurity, Front end development**
+- 🌱 I’m currently learning **Data Analysis , Data Science , Machine Learning**
 
-- 💬 Ask me about **competitive programming, web development, machine learning**
+- 💬 Ask me about **Data Analysis, web development**
   
 - 📍 Location - Kapurthala , Punjab
   
